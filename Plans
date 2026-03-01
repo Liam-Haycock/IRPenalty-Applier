@@ -1,0 +1,8 @@
+Gets penalties that are submitted, gives drivers black flags as they enter the pits so they can be  served
+
+- dont allow penalties to be served under SC (allow user to say there is an SC active)
+
+
+
+get car id from "[DriverInfo"]["Drivers"]["CarIdx"]["CarNumber"]
+use PostMessageA function in win32 C++ to post chat messages
